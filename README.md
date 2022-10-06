@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiesvdz&label=Profile%20views&color=0e75b6&style=flat" alt="thiesvdz" /> </p>
 
 
-
-- 🔭 I’m currently working on [my portfolio](http://thies-vdz.nl)
-
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [http://thies-vdz.nl](http://thies-vdz.nl)
