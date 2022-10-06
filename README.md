@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [http://thies-vdz.nl](http://thies-vdz.nl)
-
 - 📫 How to reach me **thiesvanderzon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
